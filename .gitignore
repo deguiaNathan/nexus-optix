@@ -1,0 +1,13 @@
+node_modules/
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+contact-debug.log
+contact-log.txt
+.DS_Store
+Thumbs.db
+
+.vercel
+.env*
